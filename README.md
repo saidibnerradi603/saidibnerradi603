@@ -1,7 +1,7 @@
 # 💫About Me :
 ## 👋 Hi, I'm Said Ibnerradi  
 
-I'm a **Junior Data Scientist** with a strong passion for **Machine Learning, Generative AI, and Big Data technologies**.  
+I'm a **Junior Data Scientist** with a strong passion for **Machine Learning, Deep Learning, and Generative AI**.  
 I love solving complex problems with data-driven approaches and building intelligent systems that can make a real-world impact.  
 
 With hands-on experience in **LLMs, RAG architectures, data science pipelines, and AI-powered applications**, I enjoy transforming raw data into actionable insights and deploying scalable solutions. I'm always exploring new frameworks and staying up-to-date with the latest advancements in AI.  
@@ -34,9 +34,15 @@ With hands-on experience in **LLMs, RAG architectures, data science pipelines, a
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=saidibnerradi603&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=saidibnerradi603&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=saidibnerradi603&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=saidibnerradi603&theme=radical&hide_border=false)
+<br/>
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saidibnerradi603&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 
 

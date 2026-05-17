@@ -1,16 +1,4 @@
-<div>
-
 # Hi, I'm Said Ibnerradi 👋
-
-### AI & Backend Developer
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/said-ibnerradi)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/saidibnerradi603)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:saidibenrradi@gmail.com)
-
-</div>
-
-
 
 ## About Me
 
